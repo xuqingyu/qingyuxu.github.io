@@ -21,7 +21,7 @@
 title: Qingyu Xu
 email: xuqingyu0610@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-This is the C.V. website of Qingyu Xu.
+  This is the C.V. website of Qingyu Xu.
 
 baseurl: "/docs" # the subpath of your site, e.g. /blog
 domain: xuqingyu.github.io
